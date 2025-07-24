@@ -2641,5 +2641,26 @@
         "name": "The Corsair Curse",
         "uri": "https://oldschool.runescape.wiki/w/The_Corsair_Curse",
         "reqs": []
-    }
+    },
+    {
+        "name": "The Final Dawn",
+        "uri": "https://oldschool.runescape.wiki/w/The_Final_Dawn",
+        "reqs": [
+            { 
+                "skill": "Fletching",
+                "level": 52,
+                "boostable": false
+            },
+            { 
+                "skill": "Runecraft",
+                "level": 52,
+                "boostable": false
+            },
+            { 
+                "skill": "Thieving",
+                "level": 66,
+                "boostable": false
+            }
+        ]
+    },
 ]
