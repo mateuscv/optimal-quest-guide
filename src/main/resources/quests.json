@@ -2388,7 +2388,7 @@
                 "skill": "Construction",
                 "level": 38,
                 "boostable": false
-            },
+            }
         ]
     },
     {
@@ -2414,7 +2414,7 @@
                 "skill": "Slayer",
                 "level": 54,
                 "boostable": false
-            },
+            }
         ]
     },
     {
@@ -2709,5 +2709,5 @@
         "name": "The Corsair Curse",
         "uri": "https://oldschool.runescape.wiki/w/The_Corsair_Curse",
         "reqs": []
-    },
+    }
 ]
